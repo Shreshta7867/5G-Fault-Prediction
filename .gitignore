@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files & datasets (optional)
+*.pkl
+*.h5
+*.joblib
+*.ckpt
+*.csv
+
+# Streamlit cache
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build folders
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
